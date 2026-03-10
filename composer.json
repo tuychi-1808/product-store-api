@@ -1,0 +1,7 @@
+{
+  "name": "product-store-api",
+  "description": "A simple API for managing products.",
+  "require": {
+    "php": "^7.3 || ^8.0"
+  }
+}
